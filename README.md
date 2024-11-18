@@ -1,7 +1,3 @@
-Here's a **`README.md`** file that introduces your project based on the provided content:
-
----
-
 # **Car Number Plate Extraction and Recognition**
 
 ## **Project Overview**
@@ -48,5 +44,3 @@ This project aims to develop a robust system capable of accurately detecting and
 - Develop real-time video processing capabilities to extend the system's functionality to dynamic environments.
 
 --- 
-
-This README provides an overview of the project, making it suitable for GitHub documentation or introductory purposes. Let me know if you'd like further customization!
