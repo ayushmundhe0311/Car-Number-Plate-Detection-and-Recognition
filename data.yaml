@@ -1,0 +1,9 @@
+path: D:/SoulPage/Project # Root directory for the dataset
+train: D:/SoulPage/Project/dataset/images/train  # Path to training images
+val: D:/SoulPage/Project/dataset/images/val  # Path to validation images
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['license_plate']
